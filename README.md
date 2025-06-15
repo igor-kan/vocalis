@@ -9,6 +9,10 @@ vocalis is a web application that enables users to create, manage, and deploy au
 - Payment reminders and empathetic debt collection
 - No-code voice plugin for easy integration
 
+## Live Demo
+
+Visit the live site: [https://igor-kan.github.io/vocalis](https://igor-kan.github.io/vocalis)
+
 ## Getting Started
 
 ### Prerequisites
